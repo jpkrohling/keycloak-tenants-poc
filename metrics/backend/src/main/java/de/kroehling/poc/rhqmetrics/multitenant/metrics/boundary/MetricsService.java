@@ -19,7 +19,6 @@
 package de.kroehling.poc.rhqmetrics.multitenant.metrics.boundary;
 
 import de.kroehling.poc.rhqmetrics.multitenant.metrics.entity.MetricsResponse;
-import java.security.Identity;
 import java.security.Principal;
 import javax.annotation.Resource;
 import javax.annotation.security.RolesAllowed;
